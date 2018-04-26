@@ -1,1 +1,0 @@
-REDEME.text
